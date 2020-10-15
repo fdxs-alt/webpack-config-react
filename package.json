@@ -2,7 +2,7 @@
   "name": "webpack-config-react",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/fdxs-alt/webpack-config-react.git",
+  "repository": "https://github.com/fdxs-alt/tasks",
   "author": "<kuba1207710@gmail.com>",
   "license": "MIT",
   "scripts": {
